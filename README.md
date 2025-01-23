@@ -11,7 +11,7 @@ ReactJS SprintBoot3 MySQL
 - Each Doc
     - [EC2 설정](https://olrlobt.tistory.com/83)
 
-## EC2 설정
+## 프리티어 EC2 설정
 
 - AWS Region 설정 : 아시아 태평양 ( 서울 )
 - 콘솔 홈 > 모든 서비스 보기
