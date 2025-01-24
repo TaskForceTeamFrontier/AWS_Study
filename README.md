@@ -34,8 +34,19 @@ ReactJS SprintBoot3 MySQL
     - 프리티어 / 30GiB gp3 루트 볼륨륨
 - 인스턴스 시작 선택
 
+## MySQL
+
+- 검색창 RDS 검색
+- RDS 선택
+- 데이터베이스 생성 선택
+- MySQL 선택
+- MySQL 버전선택
+- 템플릿 > 프리티어 선택
+- DB 인스턴스 식별자 입력
+- 마스터 사용자 이름 설정
+- 비밀번호 설정
+- 
+
 ## ReactJS 
 
 ## SprintBoot3 
-
-## MySQL
