@@ -10,6 +10,7 @@ ReactJS SprintBoot3 MySQL
 
 - Each Doc
     - [EC2 설정](https://olrlobt.tistory.com/83)
+    - [[AWS] 프리티어 종료(EC2, Elastic IP, RDS, Route 53 등 종료하기)](https://dev-jwblog.tistory.com/91)
 
 ## 프리티어 EC2 설정
 
